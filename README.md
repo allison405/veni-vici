@@ -26,7 +26,9 @@ The following **required** functionality is completed:
 - [X] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
   - Clicking on the API call button should not result in any image/attributes with attribute values in the ban list being displayed (ex. Using a cat API, if the ban list includes the value 'Siberian' for the breed attribute, clicking on the Discover button should never result in a Siberian cat being displayed)
   - Note: More attribute values on the ban list may result in a higher frequency of repeat results
-  -  [ ] _To ensure an accurate grade, your recording **must** show that when clicked, an attribute in the ban list is immediately removed from the list of banned attributes_
+  -  [X<img width="480" height="334" alt="gif (3)" src="https://github.com/user-attachments/assets/4d4961e5-ff4c-431d-aaca-eb1ce8fc3a39" />
+<img width="480" height="334" alt="gif (3)" src="https://github.com/user-attachments/assets/7450862a-b591-43f2-bb8c-cc5750e3ec45" />
+] _To ensure an accurate grade, your recording **must** show that when clicked, an attribute in the ban list is immediately removed from the list of banned attributes_
 
 
 The following **optional** features are implemented:
@@ -43,6 +45,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img width="480" height="334" alt="gif (3)" src="https://github.com/user-attachments/assets/b260da59-6633-431c-9d91-102116459e19" />
 
 GIF created with ...  giphy.com
 
